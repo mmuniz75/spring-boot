@@ -1,4 +1,4 @@
-package edu.muniz.springboot.topic;
+package edu.muniz.springboot.couse;
 
 import java.util.ArrayList;
 import java.util.List;

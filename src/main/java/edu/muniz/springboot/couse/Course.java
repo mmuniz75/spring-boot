@@ -1,8 +1,10 @@
-package edu.muniz.springboot.topic;
+package edu.muniz.springboot.couse;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
+
+import edu.muniz.springboot.topic.Topic;
 
 @Entity
 public class Course {

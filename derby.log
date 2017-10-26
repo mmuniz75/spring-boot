@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu Oct 26 11:35:31 BRST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-58e5-1dbc-000002bf0810 
+Thu Oct 26 13:36:49 BRST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-5954-2abc-00000bd30998 
 on database directory memory:C:\work\microservices\workspace-sts-3.8.4.RELEASE\spring-boot-lab\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
 Loaded from file:/C:/Users/admin/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
